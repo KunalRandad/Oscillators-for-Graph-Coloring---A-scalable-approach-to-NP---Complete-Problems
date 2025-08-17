@@ -1,0 +1,5 @@
+,graph_coloring_min_colors,graph_coloring_with_MOE_cut_min_colors,graph_coloring_with_random_cut_min_colors,graph_coloring_with_goeman_williamson_min_colors,is_reducible_MOE,is_reducible_random_cut,is_reducible_goeman_williamson,graph_coloring_with_MOE_cut_min_colors_optimized,graph_coloring_with_random_cut_min_colors_optimized,graph_coloring_with_goeman_williamson_min_colors_optimized
+0,13,9,10,7,True,True,True,9,10,7
+1,13,8,11,9,True,True,True,8,11,9
+2,15,8,12,8,True,True,True,8,12,8
+3,13,8,11,9,True,False,True,8,10,9
