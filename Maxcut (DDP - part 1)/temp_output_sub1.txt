@@ -1,0 +1,14 @@
+min lrc:  0.004153846153846154
+min lrr:  0.00027692307692307695
+order-based chromatic number at simulation end:  25
+color blocks at simulation end:  [[23, 45, 50], [4], [28], [54, 51, 21, 5], [31, 62], [11, 43, 40], [47, 15, 59], [0, 2, 7], [56, 48, 55], [22, 12, 61], [53, 26, 60], [18, 16, 38, 24], [37, 35, 46], [1, 10], [25, 17, 3], [44, 36, 52], [19], [30, 32], [20, 27, 8], [34, 33, 41], [58, 64, 39], [6, 57, 9], [14, 42], [13, 29, 49], [63]]
+computing for iter:  500
+minimum chromatic number:  25
+computing for iter:  1000
+minimum chromatic number:  21
+computing for iter:  1500
+minimum chromatic number:  21
+computing for iter:  2000
+minimum chromatic number:  21
+minimum order-based chromatic number during simulation:  21
+color blocks at minimum chromatic number:  [[51, 40, 50, 31], [4, 54], [28, 26, 11], [21, 45, 43, 47, 5], [55, 2, 7, 15], [53, 62, 0, 59], [23], [22, 12], [48, 56, 60, 61], [19], [24, 1, 17, 3], [46, 18, 37], [30, 35, 25, 36, 27], [16, 38], [52, 44, 20], [32, 34, 42], [41, 8], [10], [9, 64, 63, 57], [33, 29, 39, 58, 13], [14, 49, 6]]
