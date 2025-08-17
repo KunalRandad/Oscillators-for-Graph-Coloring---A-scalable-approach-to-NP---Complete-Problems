@@ -1,0 +1,16 @@
+min lrc:  0.00510204081632653
+min lrr:  0.00036734693877551024
+order-based chromatic number at simulation end:  25
+color blocks:  [[31, 40, 18], [41, 5], [26, 37], [20, 3], [24], [42], [28], [14, 9, 43, 27], [1], [29, 46], [23, 10], [39], [32, 12], [47, 13, 16], [0, 36], [38], [17], [19, 2, 21], [34], [6, 25, 35, 45], [22, 33], [15, 44], [7], [11, 48, 30], [4, 8]]
+computing for iter:  500
+minimum chromatic number:  17
+computing for iter:  1000
+minimum chromatic number:  17
+computing for iter:  1500
+minimum chromatic number:  17
+computing for iter:  2000
+minimum chromatic number:  17
+minimum order-based chromatic number during simulation:  17
+Figure(640x480)
+Figure(640x480)
+Figure(640x480)
